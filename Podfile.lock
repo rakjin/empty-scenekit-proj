@@ -1,0 +1,19 @@
+PODS:
+  - swix (0.0.1)
+
+DEPENDENCIES:
+  - swix (from `https://github.com/scottsievert/swix.git`)
+
+EXTERNAL SOURCES:
+  swix:
+    :git: https://github.com/scottsievert/swix.git
+
+CHECKOUT OPTIONS:
+  swix:
+    :commit: 794c8262e09b64c03461be216a38beab9585c60f
+    :git: https://github.com/scottsievert/swix.git
+
+SPEC CHECKSUMS:
+  swix: fe0a39696f829e7d51ef35fc574f97fb14c90368
+
+COCOAPODS: 0.35.0
